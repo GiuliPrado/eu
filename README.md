@@ -1,14 +1,11 @@
 #sobre mim#
 
-🔭Atualmente estou criando uma página no githup
+Ola, meu nome é **@GiuliPrado**
 
-🌱Atualmente estou atualizando a trabalhar com tecnologia na escola
+👍 Meu email para contato é [email](Giuliana.prestes@escola.pr.gov.br)
 
-💬Pergunte-me sobre coisas concluídas
+👀 Estou interessada em aprender novas línguagens de programação
 
-📫Como entrar em contato comigo: meu instagram é giulianapradopr
-
-⚡Curiosidade: tenho muita vontade de aprender mais sobre computadores,e uma coisa que eu quero muito aprender -->
+🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
